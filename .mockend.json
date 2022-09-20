@@ -1,10 +1,17 @@
 {
   "Post": {
-  "name": {
-    "string": [
+    "title": { "string": [
       "Thor",
       "Loki"
-    ]
-  }
+    ] },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   }
 }
