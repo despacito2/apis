@@ -9,21 +9,9 @@
         "maxLength": 20
       }
     },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
-    "tag": {
-      "string": [
-        "one",
-        "two",
-        "three"
-      ]
-    },
+
     "isDraft": {
-      "boolean": {}
+      "boolean": [true]
     },
     "createdAt": {
       "dateTime": {
