@@ -1,6 +1,14 @@
 {
   "Post": {
     "title": { "string": ["https://m.80xs.la/modules/article/search.php"] },
-
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   }
 }
