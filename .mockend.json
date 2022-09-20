@@ -5,9 +5,9 @@
         "https://m.80xs.la/modules/article/search.php"
       ]
     },
-    "api2": {
+    "LEDBitState": {
       "string": [
-        "https://m.80xs.la/modules/article/search.php"
+        "true"
       ]
     }
   }
