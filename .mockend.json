@@ -5,11 +5,11 @@
         "https://m.80xs.la/modules/article/search.php"
       ]
     },
-    "state": {
+    "api": {
       "string": [
-        "true"
+        "https://m.80xs.la/modules/article/search.php"
       ]
-    }
+    },
   }
 }
 
