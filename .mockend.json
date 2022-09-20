@@ -9,9 +9,15 @@
         "maxLength": 20
       }
     },
-
+    "tag": {
+      "string": [
+        "one",
+        "two",
+        "three"
+      ]
+    },
     "isDraft": {
-      "boolean": [true]
+      "boolean": {}
     },
     "createdAt": {
       "dateTime": {
@@ -21,3 +27,4 @@
     }
   }
 }
+
