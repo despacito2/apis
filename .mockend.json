@@ -6,11 +6,5 @@
       "Loki"
     ]
   }
-  },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
   }
 }
