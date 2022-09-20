@@ -4,12 +4,6 @@
       "Thor",
       "Loki"
     ] },
-    "comments": {
-      "string": [
-      "Thor",
-      "Loki"
-    ]
-    }
   },
   "Comment": {
     "body": { "string": {} },
