@@ -17,7 +17,7 @@
       ]
     },
     "isDraft": {
-      "boolean": {}
+      "boolean": [true]
     },
     "createdAt": {
       "dateTime": {
