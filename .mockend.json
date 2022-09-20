@@ -1,9 +1,11 @@
 {
   "Post": {
-    "title": { "string": {} },
-    "comments": {
-      "test": "Comment"
-    }
+  "name": {
+    "string": [
+      "Thor",
+      "Loki"
+    ]
+  }
   },
   "Comment": {
     "body": { "string": {} },
