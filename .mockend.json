@@ -1,13 +1,7 @@
 {
   "Post": {
-    "cover": {
-      "regexp": "https://m.80xs.la/modules/article/search.php"
-    },
     "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+      "loremWords": ["https://m.80xs.la/modules/article/search.php"]
     },
     "tag": {
       "string": [
