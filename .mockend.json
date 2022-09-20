@@ -1,13 +1,8 @@
 {
   "Post": {
-    "title": {
-      "loremWor": ["https://m.80xs.la/modules/article/search.php"]
-    },
     "tag": {
       "string": [
-        "one",
-        "two",
-        "three"
+        "https://m.80xs.la/modules/article/search.php"
       ]
     },
     "createdAt": {
