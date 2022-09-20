@@ -5,7 +5,10 @@
       "Loki"
     ] },
     "comments": {
-      "hasMany": "Comment"
+      "string": [
+      "Thor",
+      "Loki"
+    ]
     }
   },
   "Comment": {
