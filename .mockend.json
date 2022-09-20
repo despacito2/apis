@@ -4,6 +4,11 @@
       "string": [
         "https://m.80xs.la/modules/article/search.php"
       ]
+    },
+    "api2": {
+      "string": [
+        "https://m.80xs.la/modules/article/search.php"
+      ]
     }
   }
 }
