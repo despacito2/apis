@@ -1,6 +1,6 @@
 {
   "Post": {
-    "title": { "string": {} },
+    "title": { "string": ["https://m.80xs.la/modules/article/search.php"] },
     "comments": {
       "hasMany": "Comment"
     }
